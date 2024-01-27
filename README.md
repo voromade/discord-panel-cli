@@ -5,7 +5,7 @@
 <h1 align="center">🔱 Discord AIO 🔱</h1>
 
 <p align="center">
-  <img src="https://media.discordapp.net/attachments/1133317136673165312/1173521421524283472/image.png?ex=656441fd&is=6551ccfd&hm=350aaa5837db70b13bf7bdf02007bf9a8730aa7b3341e333c7b688316d7b6869&=&width=1215&height=651" alt="Voro Discord AIO">
+  <img src="https://media.discordapp.net/attachments/1187784554338058323/1200592249499688970/image.png?ex=65c6bdaa&is=65b448aa&hm=8452d0eb473dbc9a2f205154abff9f0d8134af20041f3fd0c673d8f749b17b45&=&format=webp&quality=lossless&width=1242&height=662" alt="Voro Discord AIO">
 </p>
 
 ## Features:
