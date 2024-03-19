@@ -5,7 +5,7 @@
 <h1 align="center">🔱 Discord AIO 🔱</h1>
 
 <p align="center">
-  <img src="screenshot.png" alt="Voro Discord AIO">
+  <img src="voro discord.png" alt="Voro Discord AIO">
 </p>
 
 ## Features:
